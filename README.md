@@ -19,7 +19,7 @@
 
 <h3 style="color: brown; text-align: justify;"><span style="color:#1abc9c;"><strong>What are Prerequisites for the Cisco CCNA Certification?</strong></span></h3>
 
-<p style="text-align: justify;">You don&rsquo;t need to earn any prior certification to attempt for the CCNA. Don&rsquo;t ignore exam topics with low aggregate. Cover all topics if you want to pass the <strong><a href="https://www.braindumpsstore.com/cisco/200-301-dumps"><span style="color:#2980b9;">CCNA 200-301 Exam</span></a></strong>. Candidates who appear in the CCNA exam often have more than 1 year of experience to implement and administer Cisco solutions. Along with this, complete understanding of IP addressing and network fundamentals is also necessary.</p>
+<p style="text-align: justify;">You don&rsquo;t need to earn any prior certification to attempt for the CCNA. Don&rsquo;t ignore exam topics with low aggregate. Cover all topics if you want to pass the <span style="color:#000000;">CCNA 200-301 Exam</span>. Candidates who appear in the CCNA exam often have more than 1 year of experience to implement and administer Cisco solutions. Along with this, complete understanding of IP addressing and network fundamentals is also necessary.</p>
 
 <h3 style="color: brown; text-align: justify;"><span style="color:#1abc9c;"><strong>What are Credible Ways to Prepare for the Cisco CCNA 200-301 Exam?</strong></span></h3>
 
@@ -27,7 +27,7 @@
 
 <p style="text-align: justify;">Training on Cisco recommended courses is beneficial. These courses are indeed helpful to understand CCNA exam topics. In addition to this, you will also need to prepare 200-301 exam questions and answers. Studying these practice questions provide in-depth insights into each portion of Cisco Certified Network Associate exam syllabus. OS supported 200-301 questions in PDF file are also available, allowing you to create anytime, anywhere using smartphones, laptops, computers, and tablets.</p>
 
-<p style="text-align: justify;">After preparing your question and answers, take 200-301 practice test. The 200-301 practice test&nbsp;introduces you to the actual test environment, which helps you deal with anxiety and stress. Similarly, 200-301 practice test evaluate preparation before the final exam. You will be able to remove mistakes from the preparation before the final exam. There are two versions of the mock test available and you can take the 200-301 practice test on your computer or online.<br />
+<p style="text-align: justify;">After preparing your question and answers, take <strong><a href="https://www.braindumpsstore.com/cisco/200-301-dumps"><span style="color:#2980b9;">200-301 Practice Test</span></a></strong>. The 200-301 practice test&nbsp;introduces you to the actual test environment, which helps you deal with anxiety and stress. Similarly, 200-301 practice test evaluate preparation before the final exam. You will be able to remove mistakes from the preparation before the final exam. There are two versions of the mock test available and you can take the 200-301 practice test on your computer or online.<br />
 &nbsp;</p>
 
 <p style="text-align: center;"><a href="https://www.braindumpsstore.com/cisco/ccna-pdf-dumps"><img alt="" src="https://i.imgur.com/evhhGGc.jpg" style="width: 700px; height: 350px;" /></a></p>
